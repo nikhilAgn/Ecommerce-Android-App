@@ -8,7 +8,7 @@ for the this project. If you are interested feel free to Ping me.
 I would gladly accept pointers from others to improve, simplify, or make the code more efficient. If you would like to make any comments then please feel free to email me:
 
 <h3><b>SANDESH POL.</b></h3>
-:email: sandeshpol123@gmail.com
+:email:nikhilagnihitri@gmail.com
 <hr>
 
 # Some results
